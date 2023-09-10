@@ -5,16 +5,16 @@
 
 ## Contents
 
-- [Community and project platforms](#Community and project platforms)
-- [The technological infrastructure](#The technological infrastructure)
+- [Community and project platforms](#Community-and-project-platforms)
+- [The technological infrastructure](#The-technological-infrastructure)
+- [On-chain carbon markets](#On-chain-carbon-markets)
 - [Databases](#Databases)
 - [Events](#Events)
 - [Media](#Media)
 - [Books](#Books)
-- [Education and development for individuals](#Education and development for individuals) 
-- [Funding and support opportunities](#Funding and support opportunities)
-- [Participation opportunities](#Participation opportunities)
-- [Off-chain regeneration](#Off-chain regeneration)
+- [Education and development for individuals](#Education-and-development-for-individuals) 
+- [Funding and support opportunities](#Funding-and-support-opportunities)
+- [Regenerative participation opportunities](#Regenerative-participation-opportunities)
 
 ## Community and project platforms
 
@@ -62,6 +62,11 @@ Since Blockchain prove to be an ideal enabler of a well-functioning and effectiv
 - [Mangrove DAO](https://mangrovedao.earth/) - mangrove reforestation  
 - [Moss.Earth](https://mco2token.moss.earth/) - preservation of the Amazon forest
 
+### ReFi staking protocols 
+
+- [Sunrise Stake](https://www.sunrisestake.com/)
+- [Spirals Protocol](https://www.spirals.so/)
+
 ### On-chain registries
 
 - [EcoRegistry](https://www.ecoregistry.io/)
@@ -78,6 +83,7 @@ Since Blockchain prove to be an ideal enabler of a well-functioning and effectiv
 - [The Regen Marketplace](https://app.regen.network/)
 - [Restart Energy Democracy (RED) Platform](https://redplatform.com/)
 - [Carbonlink](https://www.carbonlink.io/)
+- [Solid World](https://www.solid.world/)
 
 ### MRV platforms 
 
@@ -96,6 +102,7 @@ Since Blockchain prove to be an ideal enabler of a well-functioning and effectiv
 - [ReFi DAO ecosystem - organisations](https://www.refidao.com/ecosystem/organizations)
 - [Positive Blockchain](https://positiveblockchain.io/)
 - [Web3 climate map](https://kumu.io/climate-collective/web3-climate-map) by Climate Collective
+- [Gitcoin's Regenerative Web3 landscape](https://www.gitcoin.co/blog/regenerative-web-3-the-landscape-opportunities-and-entry-points)
 
 ## Events
 
@@ -142,9 +149,15 @@ Since Blockchain prove to be an ideal enabler of a well-functioning and effectiv
 
 ## Education and development for individuals
 
+### Opportunities
+
 - [Funding the Commons](https://fundingthecommons.io/), events, hackathons, and sponsorship opportunities
 - [Mia](https://mia-learning-network.mn.co/) - learning and upskilling platform for women in tech
 - [SystAIn3r](https://www.systain3r.com/) - a network for women & non-binary people to build expertise and leadership skills
+
+### Online resources
+
+- [Web3 Social Impact Infographics](https://www.cryptoaltruism.org/infographics) by Crypto Altruism
 
 ## Funding and support opportunities
 
@@ -162,13 +175,13 @@ Since Blockchain prove to be an ideal enabler of a well-functioning and effectiv
 - [Filecoin dev grants](https://grants.filecoin.io/) Next step Microgrants and Open Dev Grants
 - [Hypercerts](https://hypercerts.org/) retroactive funding 
 - [Arcological](https://arcological.xyz/) intermediary between funders and public goods projects 
-- [Spirals Protocol](https://www.spirals.so/) 
 - [McLighthouse Massiv](https://mclighthouse.com/MASSIV/) for sustainability and social impact tech startups(bi-annual)
 - [Climate Capital](https://www.climatecapital.co/)
 - [Flori Ventures](https://www.floriventures.com/)
 - [The Sphere](https://www.thesphere.as/) funding for artists
 - [Untangled](https://untangled.finance/) loans
 - [ReSource](https://resource.finance/) - mutual credit and multilateral exchange for the growth of circular economies
+- [Celo Camp](https://www.celocamp.com/) - incubator for ReFi projects on Celo
 
 ### Charity focused
 
